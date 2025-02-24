@@ -4,3 +4,4 @@ I then write the required information inside these three files.
 Then i pushed the files to github using the terminal, after making the initial commit and using the necessary branch.
 
 I then returned to update my files and then commit the second time, furthermore i bundled the files together.
+And i am done.
